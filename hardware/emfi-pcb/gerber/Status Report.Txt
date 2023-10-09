@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [EMFI.PrjPcb]
+   Generated File[EMFI_Copper_Signal_Top.gbr]
+   Generated File[EMFI_Copper_Signal_Bot.gbr]
+   Generated File[EMFI_Pads_Bot.gbr]
+   Generated File[EMFI_Pads_Top.gbr]
+   Generated File[EMFI_Legend_Top.gbr]
+   Generated File[EMFI_Legend_Bot.gbr]
+   Generated File[EMFI_Soldermask_Top.gbr]
+   Generated File[EMFI_Soldermask_Bot.gbr]
+   Generated File[EMFI_Paste_Top.gbr]
+   Generated File[EMFI_Paste_Bot.gbr]
+   Generated File[EMFI_Mechanical_1.gbr]
+   Generated File[EMFI_Mechanical_13.gbr]
+   Generated File[EMFI_Mechanical_15.gbr]
+   Generated File[EMFI_Mechanical_20.gbr]
+   Generated File[EMFI_Profile.gbr]
+   Generated File[EMFI_NPTH_Drill.gbr]
+   Generated File[EMFI_PTH_Drill.gbr]
+   Generated File[EMFI_Drawing_1.gbr]
+   Generated File[EMFI_Drillmap_1.gbr]
+   Generated File[EMFI.EXTREP]
+   Generated File[EMFI.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 19:22:31 On 26-09-2023
