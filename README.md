@@ -45,7 +45,11 @@ The target microcontroller could be mounted on a 3-axis position stage. With thi
 
 The EM probe is required to inject shock into the target DUT. It can be constructed easily using a [power inductor](https://www.mouser.in/ProductDetail/710-744710610) and an [SMA connector](https://www.mouser.in/ProductDetail/712-CONSMA013.062-G). The power inductor would have a ferrite core wrapped around with coil. It converts the electrical energy into magnetic energy. The power inductor can be connected to an SMA connector to complete this setup. 
 
-## Device Under Test (DUTs)
+## Device Under Test (DUTs)    
+
+| STM32F205RET6 | STM32F427VIT6TR |
+| ------------- | --------------- |
+| ![DUT_STM32F205RET6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32F205RET6.png) | ![DUT_STM32F427VIT6TR](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32F427VIT6TR.png) |
 
 // add DUT images
 
