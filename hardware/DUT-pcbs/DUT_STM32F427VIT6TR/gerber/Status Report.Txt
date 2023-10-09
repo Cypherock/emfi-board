@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DUT_STM32F427VIT6TR.PrjPcb]
+   Generated File[DUT_STM32F427VIT6TR_Copper_Signal_Top.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Copper_Signal_Bot.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Pads_Bot.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Pads_Top.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Legend_Top.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Legend_Bot.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Soldermask_Top.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Soldermask_Bot.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Paste_Top.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Mechanical_13.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Mechanical_15.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Mechanical_20.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Profile.gbr]
+   Generated File[DUT_STM32F427VIT6TR_PTH_Drill.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Drawing_1.gbr]
+   Generated File[DUT_STM32F427VIT6TR_Drillmap_1.gbr]
+   Generated File[DUT_STM32F427VIT6TR.EXTREP]
+   Generated File[DUT_STM32F427VIT6TR.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 23:18:19 On 04-10-2023

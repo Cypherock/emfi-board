@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ATECC.PrjPcb]
+   Generated File[ATECC_Copper_Signal_Top.gbr]
+   Generated File[ATECC_Copper_Signal_Bot.gbr]
+   Generated File[ATECC_Pads_Bot.gbr]
+   Generated File[ATECC_Pads_Top.gbr]
+   Generated File[ATECC_Legend_Top.gbr]
+   Generated File[ATECC_Legend_Bot.gbr]
+   Generated File[ATECC_Soldermask_Top.gbr]
+   Generated File[ATECC_Soldermask_Bot.gbr]
+   Generated File[ATECC_Paste_Top.gbr]
+   Generated File[ATECC_Mechanical_13.gbr]
+   Generated File[ATECC_Mechanical_15.gbr]
+   Generated File[ATECC_Profile.gbr]
+   Generated File[ATECC_PTH_Drill.gbr]
+   Generated File[ATECC_Drawing_1.gbr]
+   Generated File[ATECC_Drillmap_1.gbr]
+   Generated File[ATECC.EXTREP]
+   Generated File[ATECC.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 19:13:55 On 05-10-2023

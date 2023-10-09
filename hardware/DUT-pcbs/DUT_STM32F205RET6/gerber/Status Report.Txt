@@ -1,0 +1,24 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DUT_STM32F205RET6.PrjPcb]
+   Generated File[DUT_STM32F205RET6_Copper_Signal_Top.gbr]
+   Generated File[DUT_STM32F205RET6_Copper_Signal_Bot.gbr]
+   Generated File[DUT_STM32F205RET6_Pads_Bot.gbr]
+   Generated File[DUT_STM32F205RET6_Pads_Top.gbr]
+   Generated File[DUT_STM32F205RET6_Legend_Top.gbr]
+   Generated File[DUT_STM32F205RET6_Legend_Bot.gbr]
+   Generated File[DUT_STM32F205RET6_Soldermask_Top.gbr]
+   Generated File[DUT_STM32F205RET6_Soldermask_Bot.gbr]
+   Generated File[DUT_STM32F205RET6_Paste_Top.gbr]
+   Generated File[DUT_STM32F205RET6_Mechanical_13.gbr]
+   Generated File[DUT_STM32F205RET6_Mechanical_15.gbr]
+   Generated File[DUT_STM32F205RET6_Profile.gbr]
+   Generated File[DUT_STM32F205RET6_PTH_Drill.gbr]
+   Generated File[DUT_STM32F205RET6.EXTREP]
+   Generated File[DUT_STM32F205RET6.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 23:19:18 On 04-10-2023

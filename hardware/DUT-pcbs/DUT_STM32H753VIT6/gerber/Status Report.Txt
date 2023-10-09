@@ -1,0 +1,25 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DUT_STM32H753VIT6.PrjPcb]
+   Generated File[DUT_STM32H753VIT6_Copper_Signal_Top.gbr]
+   Generated File[DUT_STM32H753VIT6_Copper_Signal_Bot.gbr]
+   Generated File[DUT_STM32H753VIT6_Pads_Bot.gbr]
+   Generated File[DUT_STM32H753VIT6_Pads_Top.gbr]
+   Generated File[DUT_STM32H753VIT6_Legend_Top.gbr]
+   Generated File[DUT_STM32H753VIT6_Legend_Bot.gbr]
+   Generated File[DUT_STM32H753VIT6_Soldermask_Top.gbr]
+   Generated File[DUT_STM32H753VIT6_Soldermask_Bot.gbr]
+   Generated File[DUT_STM32H753VIT6_Paste_Top.gbr]
+   Generated File[DUT_STM32H753VIT6_Mechanical_13.gbr]
+   Generated File[DUT_STM32H753VIT6_Mechanical_15.gbr]
+   Generated File[DUT_STM32H753VIT6_Mechanical_20.gbr]
+   Generated File[DUT_STM32H753VIT6_Profile.gbr]
+   Generated File[DUT_STM32H753VIT6_PTH_Drill.gbr]
+   Generated File[DUT_STM32H753VIT6.EXTREP]
+   Generated File[DUT_STM32H753VIT6.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 23:20:46 On 04-10-2023

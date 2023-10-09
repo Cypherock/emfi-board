@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DUT_ATMEGA328P-AU.PrjPcb]
+   Generated File[DUT_ATMEGA328P-AU_Copper_Signal_Top.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Copper_Signal_Bot.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Pads_Bot.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Pads_Top.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Legend_Top.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Legend_Bot.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Soldermask_Top.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Soldermask_Bot.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Paste_Top.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Paste_Bot.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Mechanical_13.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Mechanical_15.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Mechanical_20.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Profile.gbr]
+   Generated File[DUT_ATMEGA328P-AU_PTH_Drill.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Drawing_1.gbr]
+   Generated File[DUT_ATMEGA328P-AU_Drillmap_1.gbr]
+   Generated File[DUT_ATMEGA328P-AU.EXTREP]
+   Generated File[DUT_ATMEGA328P-AU.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 09:32:41 On 05-10-2023

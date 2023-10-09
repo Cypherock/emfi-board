@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DUT_ESP32-D0WD-V3.PrjPcb]
+   Generated File[DUT_ESP32-D0WD-V3_Copper_Signal_Top.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Copper_Signal_Bot.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Pads_Bot.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Pads_Top.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Legend_Top.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Legend_Bot.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Soldermask_Top.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Soldermask_Bot.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Paste_Top.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Paste_Bot.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Mechanical_13.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Mechanical_15.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Mechanical_20.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Profile.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_PTH_Drill.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Drawing_1.gbr]
+   Generated File[DUT_ESP32-D0WD-V3_Drillmap_1.gbr]
+   Generated File[DUT_ESP32-D0WD-V3.EXTREP]
+   Generated File[DUT_ESP32-D0WD-V3.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 09:31:21 On 05-10-2023
