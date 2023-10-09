@@ -1,10 +1,11 @@
 
 # Cypherock EMFI Board
 
-The “cypherock_emfi_name” is a low-cost Electromagnetic Fault Injection (EMFI) device, developed by Cypherock for studying and researching physical security threats that appear at a circuit level in modern chips. 
-![pcb_front](https://github.com/Cypherock/emfi-board/blob/main/images/pcb_front.png)
+The “cypherock_emfi_name” is a low-cost Electromagnetic Fault Injection (EMFI) device, developed by Cypherock for studying and researching physical security threats that appear at a circuit level in modern chips.  
 
-// PCB images
+![pcb_front](https://github.com/Cypherock/emfi-board/blob/main/images/pcb_front.png)      
+
+![pcb_back](https://github.com/Cypherock/emfi-board/blob/main/images/pcb_back.jpg)
 
 
 
