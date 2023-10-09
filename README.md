@@ -67,5 +67,5 @@ The EM probe is required to inject shock into the target DUT. It can be construc
 
 ## License
 
-Cypherock EMFI Board is rleased under [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) Version 3.
+Cypherock EMFI Board is released under [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) Version 3.
 
