@@ -52,14 +52,14 @@ The EM probe is required to inject shock into the target DUT. It can be construc
 | ![DUT_STM32F205RET6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32F205RET6.png) | ![DUT_STM32F427VIT6TR](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32F427VIT6TR.png) | ![DUT_STM32L496RGT6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32L496RGT6.png) |
 
 
-| STM32H753VIT6                                                                                        | ESP32-D0WD-V3                                                                                            | ATSAMD51J20A-AU   |
+| STM32H753VIT6                                                                                        | ATMEGA328P-AU                                                                                     | ATSAMD51J20A-AU   |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------| 
-| ![DUT_STM32H753VIT6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32H753VIT6.png) | ![DUT_ESP32-D0WD-V3 ](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ESP32-D0WD-V3.png)   | ![DUT_ATSAMD51J20A-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATSAMD51J20A-AU.png) |
+| ![DUT_STM32H753VIT6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32H753VIT6.png) | ![DUT_ATMEGA328P-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATMEGA328P-AU.png)    | ![DUT_ATSAMD51J20A-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATSAMD51J20A-AU.png) |
 
 
-| ATMEGA328P-AU                                                                                                                                                                          |
+| ESP32-D0WD-V3                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| ![DUT_ATMEGA328P-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATMEGA328P-AU.png)  |
+| ![DUT_ESP32-D0WD-V3 ](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ESP32-D0WD-V3.png)  |
 
 
 ## License
