@@ -47,8 +47,8 @@ The EM probe is required to inject shock into the target DUT. It can be construc
 
 ## Device Under Test (DUTs)    
 
-| STM32F205RET6 | STM32F427VIT6TR |
-| ------------- | --------------- |
+| STM32F205RET6                                                                                        | STM32F427VIT6TR                                                                                          |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | ![DUT_STM32F205RET6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32F205RET6.png) | ![DUT_STM32F427VIT6TR](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32F427VIT6TR.png) |
 
 // add DUT images
