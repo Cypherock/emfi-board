@@ -62,16 +62,6 @@ The EM probe is required to inject shock into the target DUT. It can be construc
 | ![DUT_ATMEGA328P-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATMEGA328P-AU.png)  |
 
 
-
-// add DUT images
-
-DUT_STM32F205RET6  
-DUT_STM32F427VIT6TR  
-DUT_STM32L496RGT6  
-DUT_STM32H753VIT6  
-DUT_ESP32-D0WD-V3  
-DUT_ATSAMD51J20A-AU  
-DUT_ATMEGA328P-AU
 ## License
 
 Cypherock EMFI Board is rleased under [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) Version 3.
