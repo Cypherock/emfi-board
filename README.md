@@ -58,8 +58,8 @@ The EM probe is required to inject shock into the target DUT. It can be construc
 
 
 | ATMEGA328P-AU                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| ![DUT_ATMEGA328P-AU]([https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32H753VIT6.png](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATMEGA328P-AU.png) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| ![DUT_ATMEGA328P-AU]([https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32H753VIT6.png](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATMEGA328P-AU.png)  |
 
 
 
