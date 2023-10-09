@@ -1,0 +1,2 @@
+#Backups files and temporary zips (Add gerber in folder instead of zip format)
+!/*.zip
