@@ -1,7 +1,7 @@
 
 # Cypherock EMFI Board
 
-The “cypherock_emfi_name” is a low-cost Electromagnetic Fault Injection (EMFI) device, developed by Cypherock for studying and researching physical security threats that appear at a circuit level in modern chips.  
+The Cypherock EMFI device is a low-cost Electromagnetic Fault Injection (EMFI) device, developed by Cypherock for studying and researching physical security threats that appear at a circuit level in modern chips.  
 
 ![pcb_front](https://github.com/Cypherock/emfi-board/blob/main/images/pcb_front.png)      
 
@@ -54,7 +54,7 @@ The EM probe is required to inject shock into the target DUT. It can be construc
 
 | STM32H753VIT6                                                                                        | ESP32-D0WD-V3                                                                                            | ATSAMD51J20A-AU   |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------| 
-| ![DUT_STM32H753VIT6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32H753VIT6.png) | ![DUT_ESP32-D0WD-V3 ](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ESP32-D0WD-V3.png)   | ![DUT_ATSAMD51J20A-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATSAMD51J20A-AU.png) |
+| ![DUT_STM32H753VIT6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32H753VIT6.png) | ![DUT_ESP32-D0WD-V3 ](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ESP32-D0WD-V3.png = 244x644)   | ![DUT_ATSAMD51J20A-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATSAMD51J20A-AU.png) |
 
 
 | ATMEGA328P-AU                                                                                                                                                                          |
