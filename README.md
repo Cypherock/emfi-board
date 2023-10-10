@@ -64,10 +64,6 @@ The EM probe is required to inject shock into the target DUT. It can be construc
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | ![DUT_ESP32-D0WD-V3 ](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ESP32-D0WD-V3.png)  |
 
-| ESP32-D0WD-V3                                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| <img src="https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ESP32-D0WD-V3.png" alt="DUT_ESP32-D0WD-V3" width="250"/>  |
-
 
 ## License
 
