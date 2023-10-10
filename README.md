@@ -50,7 +50,7 @@ The EM probe is required to inject shock into the target DUT. It can be construc
 
 ## Device Under Test (DUTs)   
 
-We have designed the daughter boards for the following DUTs (microcontrollers). 
+The below list shows the microcontrollers that are commonly used in hardware crypto wallets. These microcontrollers are susceptible to EMFI based attacks. We have designed the DUT boards for EMFI analysis on these microcontrollers. The DUT boards are included inside the hardware folder.
 
 * STM32F205RET6
 * STM32F427VIT6TR
