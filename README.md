@@ -48,21 +48,17 @@ The target microcontroller could be mounted on a 3-axis position stage. With thi
 
 The EM probe is required to inject shock into the target DUT. It can be constructed easily using a [power inductor](https://www.mouser.in/ProductDetail/710-744710610) and an [SMA connector](https://www.mouser.in/ProductDetail/712-CONSMA013.062-G). The power inductor would have a ferrite core wrapped around with coil. It converts the electrical energy into magnetic energy. The power inductor can be connected to an SMA connector to complete this setup. 
 
-## Device Under Test (DUTs)    
+## Device Under Test (DUTs)   
 
-| STM32F205RET6                                                                                        | STM32F427VIT6TR                                                                                          | STM32L496RGT6   |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------| 
-| ![DUT_STM32F205RET6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32F205RET6.png) | ![DUT_STM32F427VIT6TR](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32F427VIT6TR.png) | ![DUT_STM32L496RGT6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32L496RGT6.png) |
+We have designed the daughter boards for the following DUTs (microcontrollers). 
 
-
-| STM32H753VIT6                                                                                        | ATMEGA328P-AU                                                                                     | ATSAMD51J20A-AU   |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------| 
-| ![DUT_STM32H753VIT6](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_STM32H753VIT6.png) | ![DUT_ATMEGA328P-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATMEGA328P-AU.png)    | ![DUT_ATSAMD51J20A-AU](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ATSAMD51J20A-AU.png) |
-
-
-| ESP32-D0WD-V3                                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| ![DUT_ESP32-D0WD-V3 ](https://github.com/Cypherock/emfi-board/blob/main/images/DUT_ESP32-D0WD-V3.png)  |
+* STM32F205RET6
+* STM32F427VIT6TR
+* STM32L496RGT6
+* STM32H753VIT6
+* ESP32-D0WD-V3
+* ATSAMD51J20A-AU
+* ATMEGA328P-AU
 
 
 ## License
