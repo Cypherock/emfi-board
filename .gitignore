@@ -1,2 +1,24 @@
 #Backups files and temporary zips (Add gerber in folder instead of zip format)
 !/*.zip
+*.PrjPcbStructure
+*/__Previews
+*/History
+
+#Other build and config files
+Debug
+Release
+/.vscode/*
+!/.vscode/settings.json
+!/.vscode/c_cpp_properties.json
+!/.vscode/launch.json
+!/.vscode/tasks.json
+cmake-build-*
+.idea
+*.bak
+html
+.DS_Store
+.env
+
+#Python cache files
+__pycache__
+*.pyc
