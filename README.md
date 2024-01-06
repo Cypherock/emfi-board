@@ -60,6 +60,22 @@ The below list shows the microcontrollers that are commonly used in hardware cry
 * ATSAMD51J20A-AU
 * ATMEGA328P-AU
 
+## Usage
+
+### EMFI firmware 
+- STM32CubeIDE is required for building and debugging the project.
+- After installation of the IDE, the project can be accessed by either using the .project/.cproject files.
+- Use the launch configurations for debugging and programming the EMFI board.
+
+### Use the EMFI tool for generating shoots
+- Install python dependencies from requirements.txt
+- Connect EMFI board's power and USB comm ports
+- Run the python in Scripts/Cypherock/test.py
+- Enter the COM port detected on the system
+- After connection is created, EMFI voltage would start rising
+- On pressing enter on the terminal, the device would start a EMFI shoot
+- On pressing enter again, the device would turn off the PWM and voltage would gradually decrease
+
 
 ## License
 
